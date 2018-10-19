@@ -13,7 +13,7 @@ div {
   font-size: 1.125rem;
 }
 
-.btn {
+div .btn {
   color: #fff;
   background-color: #333;
   text-decoration: none;
@@ -65,10 +65,10 @@ div {
   border-color: #933;
 }
 
-section .btn-small {
+.btn-small a {
   font-size: .875rem;
 }
 
-section .btn-big {
+.btn-big a{
   font-size: 1.5rem;
 }
